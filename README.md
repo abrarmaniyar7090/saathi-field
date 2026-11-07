@@ -31,4 +31,3 @@ The sign-in screen can fill either account for you. Public demo passwords are fo
 Included: overdue CSV import with pincode/workload assignment, officer priority list with reasons, outcome logging with GPS and offline queue, promise tracker, bilingual approved reminder preview, contact-hour enforcement, and manager roll-rate/back-test dashboard.
 
 Outside this pilot: payment collection, telephony/SMS integration, a real collection-system import, maps data, multi-device offline conflict resolution, full enterprise identity, production hosting, and trained-model calibration. All contact and payment actions in the demo are mocked.
-

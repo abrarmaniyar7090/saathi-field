@@ -1,0 +1,10 @@
+{
+  "name": "Saathi Field Collections",
+  "short_name": "Saathi",
+  "start_url": "/today",
+  "display": "standalone",
+  "background_color": "#f5f4ef",
+  "theme_color": "#183c32",
+  "description": "Prioritised field collections with offline outcome capture.",
+  "icons": [{"src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]
+}
